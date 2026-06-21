@@ -1,4 +1,4 @@
-"""
+r"""
 Resonance - baut zwei personalisierte Bluesky-Listen aus deinen Interaktionen.
 
   ECHO Resonance     = Accounts, die du oft GELIKED hast        (ab ECHO_SCHWELLE)
