@@ -1,0 +1,10 @@
+# virtuelle Python-Umgebung (nie hochladen - gehoert nur auf deinen Rechner)
+.venv/
+
+# Python-Zwischendateien
+__pycache__/
+*.pyc
+
+# evtl. lokale Notizen / Zugangsdaten - niemals ins Repo
+secrets.txt
+*.local
